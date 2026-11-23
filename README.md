@@ -168,7 +168,7 @@ Install the following before running the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/chinmayranjanranjan-art/SafeRx-AI.git
+git clone https://github.com/KushalGM15/SafeRx-AI-Drug-Recommendation-System-Using-RAG-and-ADMET-Prediction.git
 ```
 
 ```bash
@@ -303,7 +303,7 @@ SafeRx AI is an educational and research-oriented decision-support prototype.
 **Focus Areas:** Drug Safety, Molecular Analysis, ADMET Prediction, RAG, Explainable AI.
 
 **GitHub Repository:**  
-https://github.com/chinmayranjanranjan-art/SafeRx-AI
+https://github.com/KushalGM15/SafeRx-AI-Drug-Recommendation-System-Using-RAG-and-ADMET-Prediction
 
 ---
 
